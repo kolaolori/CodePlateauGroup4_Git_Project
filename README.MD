@@ -4,4 +4,6 @@ To contribute to this project:
 	* Save and commit;
 	* The create a PR.
 
+Please always remember to keep your commit messages short and comprehensive.
+
 Helpful links for git: https://try.github.io/ & https://git-scm.com/docs/gittutorial
